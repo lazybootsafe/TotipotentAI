@@ -1,5 +1,6 @@
 #coding:utf-8
 #by finger on 02.md
+# 安装几个库 SpeechRecognition, PyAudio 和 PySpeech 
 
 import speech_recognition as sr
 from time import ctime
